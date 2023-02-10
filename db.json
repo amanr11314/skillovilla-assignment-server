@@ -1,0 +1,131 @@
+{
+  "user": [
+    {
+      "id": 12,
+      "username": "Clueless-kun"
+    },
+    {
+      "id": 13,
+      "username": "Nebuchadnezzer (AFTP)"
+    },
+    {
+      "id": 14,
+      "username": "Tony Hue"
+    },
+    {
+      "username": "amanr11314",
+      "id": 16
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "content": "Dude thank you so much for making this, now if only it was possible to somehow get this to stay as the top discussion so that new people don't make these mistakes",
+      "userId": 12,
+      "time": "2023-02-09T19:17:41+05:30",
+      "likes": [
+        {
+          "id": 12
+        }
+      ],
+      "dislikes": [],
+      "parent": -1,
+      "isMod": false
+    },
+    {
+      "id": 2,
+      "content": "If I could recommend this discussion more than once,I would.",
+      "userId": 14,
+      "time": "2023-02-09T19:17:41+05:30",
+      "likes": [
+        123,
+        16
+      ],
+      "dislikes": [],
+      "parent": -1,
+      "isMod": false
+    },
+    {
+      "id": 3,
+      "content": "Working on it. It will eventually be linkable on the side of all discussions",
+      "userId": 13,
+      "time": "2023-02-09T19:17:41+05:30",
+      "likes": [],
+      "dislikes": [],
+      "parent": 1,
+      "isMod": true
+    },
+    {
+      "content": "tet2\n",
+      "userId": 16,
+      "time": "2023-02-09T19:17:41+05:30",
+      "likes": [],
+      "dislikes": [],
+      "parent": 4,
+      "isMod": false,
+      "id": 5
+    },
+    {
+      "content": "updated comment2\n",
+      "userId": 16,
+      "time": "2023-02-09T19:16:17+05:30",
+      "likes": [],
+      "dislikes": [],
+      "parent": 6,
+      "isMod": false,
+      "id": 7
+    },
+    {
+      "content": "fgnhjvhj\n\n",
+      "userId": 16,
+      "time": "2023-02-09T19:17:41+05:30",
+      "likes": [],
+      "dislikes": [],
+      "parent": 7,
+      "isMod": false,
+      "id": 8
+    },
+    {
+      "content": "now\n",
+      "userId": 16,
+      "time": "2023-02-09T23:55:09+05:30",
+      "likes": [],
+      "dislikes": [],
+      "parent": 6,
+      "isMod": false,
+      "id": 12
+    },
+    {
+      "content": "jn",
+      "userId": 16,
+      "time": "2023-02-10T14:19:17+05:30",
+      "likes": [],
+      "dislikes": [],
+      "parent": 15,
+      "isMod": false,
+      "id": 16
+    },
+    {
+      "content": "new comment 2",
+      "userId": 16,
+      "time": "2023-02-10T15:06:37+05:30",
+      "likes": [
+        16
+      ],
+      "dislikes": [],
+      "parent": -1,
+      "isMod": false,
+      "id": 18
+    },
+    {
+      "content": "kn",
+      "userId": 16,
+      "time": "2023-02-10T15:26:04+05:30",
+      "likes": [],
+      "dislikes": [],
+      "parent": -1,
+      "isMod": false,
+      "id": 19
+    }
+  ]
+}
